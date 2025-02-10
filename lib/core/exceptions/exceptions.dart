@@ -1,0 +1,1 @@
+class GetMoteisException implements Exception {}
