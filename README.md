@@ -1,16 +1,12 @@
-# gdm_assignment
+# App running
 
-A new Flutter project.
+https://github.com/user-attachments/assets/08c5fa51-6c5e-41cc-991f-249050592bc4
 
-## Getting Started
+# Tests running
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/9b68dbdf-2420-4116-ad82-bd27ba8cbe0e
 
-A few resources to get you started if this is your first Flutter project:
+# Coverage
+Você consegue mais detalhes abrindo o arquivo coverage/index.html
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1439" alt="Screenshot 2025-02-15 at 20 57 50" src="https://github.com/user-attachments/assets/b4a1cacc-adb1-490b-870e-cdd3ccc9b295" />
